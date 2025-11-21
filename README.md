@@ -1,1 +1,2 @@
 # Create 2 Tier Web-App to Manage K8s cluster on Amazon EKS with Pod auto-scaling and deployment automation
+This project is a two-tier web application deployed on Amazon EKS, built to demonstrate real-world Kubernetes operations, automation, and scalability. It includes automated CI/CD deployment, pod auto-scaling, and complete infrastructure provisioning using IaC. The goal was to build a production-style workflow that shows how a modern app is deployed, scaled, and managed on AWS using Kubernetes best practices.
